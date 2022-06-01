@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @VictorLuzon.
+- 👀 I’m interested in work as a programmer.
+- 🌱 I’m currently learning Multiplatform Application Development.
+-  (Git, GitHub, C#, Java, JavaScript, HTML, CSS, XML, and SQL).
+- 💞️ I’m looking to collaborate on any technology consultant who wants to give me the opportunity when I finish my studies.
+- 📫 How to reach me victor.luzonburgos@gmail.com
